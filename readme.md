@@ -21,4 +21,4 @@ Open your web browser and access the following URLs:
 
 Each page will use the base template and render its specific content.
 
-By organizing your project with separate handlers, templates, and static files, you create a maintainable and scalable structure for your multi-page website using the Echo framework.
+Organizing the project with separate handlers, templates, and static files, a maintainable and scalable structure for your multi-page website is created using the Echo framework.
